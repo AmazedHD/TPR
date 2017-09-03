@@ -43,6 +43,7 @@ public class IfSwitchExamples{
       break;
       case 6: case 7: case 8:
       kado = "een gameboy";
+      break;
       case 9: case 10: case 11:
       kado = "een crossfiets";
       break;
