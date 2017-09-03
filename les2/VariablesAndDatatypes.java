@@ -3,6 +3,7 @@ public class VariablesAndDatatypes{
       //Variabelen met verschillende datatypes
       //Optioneel worden daar de waarden aan toegekend met behulp van = met daarachter de nieuwe waarden
       //Let op dat je bij het toekennen van een String "" double quotes gebruikt
+
       String thePersonName = "Klaas";
       int thePersonAge = 38;
       float thePersonWeight = 82.4f;
@@ -30,6 +31,7 @@ public class VariablesAndDatatypes{
       Beantwoord de onderstaande vragen en voer de opdrachten uit.
       Geef antwoorden op vragen door ze te printen naar de command prompt met System.out.println();
       Als je dit gedaan hebt gedaan kun je het achievement "variables & datatypes basics" af laten tekenen bij de docent.
+      Houd er altijd rekening mee dat de code van boven naar beneden regel voor regel wordt uitgevoerd.
       */
 
       //Vraag 1: Wat is het gewicht van de persoon met de naam "Klaas"?
