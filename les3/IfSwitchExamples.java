@@ -28,7 +28,7 @@ public class IfSwitchExamples{
     else if(age <= 8){kado = "een gameboy";}
     else if(age <= 11){kado = "een crossfiets";}
     else if(age <= 15){kado = "geld voor een playstation";}
-    else if(age <= 17){kado = "geld voor een brommer;"}
+    else if(age <= 17){kado = "geld voor een brommer";}
     else{ kado = "geld voor mijn rijbewijs";}
 
     switch(age){

@@ -1,12 +1,19 @@
-import java.util.Scanner;
+
 public class MyProgram{
   public static void main(String args[]){
-    System.out.println("hello world");
 
-    Scanner s = new Scanner(System.in);
-    System.out.println("you just typed " + s.next());
+    //greet("Jamiro");
 
+    MyProgram mp = new MyProgram();
+    mp.greet("jamiro");
+
+    MyProgram mp2 = new MyProgram();
+    mp2.greet("jamiro");
 
 
   }
+  private void greet(String name){
+    System.out.println("Hello "+name);
+  }
+
 }
