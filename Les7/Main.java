@@ -12,7 +12,7 @@ public class Main{
     }
     rabbits[0].eat(4,pinkcarrots);
     rabbits[0].eat(2,orangecarrots);
-    
+
   }
 }
 
@@ -21,7 +21,7 @@ public class Main{
 
 //Opdracht 2:
 //Plaats de Carrot class in een map die "vegetables" heet en de Rabbit class in een map met de naam "animals"
-//Zorg ervoor dat de namespace van deze classes wordt correct wordt aangepast zodat de compiler deze classes weer kan vinden.
+//Zorg ervoor dat de namespace van deze classes correct wordt aangepast zodat de compiler deze classes weer kan vinden.
 
 //Opdracht 3:
 //Zorg dat het konijn wat vriendjes krijgt! Die mogen ook een paar wortels eten.
