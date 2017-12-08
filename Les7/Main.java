@@ -12,8 +12,7 @@ public class Main{
     }
     rabbits[0].eat(4,pinkcarrots);
     rabbits[0].eat(2,orangecarrots);
-    rabbits[0].eat(11,orangecarrots);
-    rabbits[0].eat(4,orangecarrots);
+    
   }
 }
 
@@ -21,5 +20,8 @@ public class Main{
 //Los de 2 fouten op die allebij te maken hebben met "scope"
 
 //Opdracht 2:
-//Plaats de Carrot class in een map die "Vegetables" heet en de Rabbit class in een map met de naam "Animals"
+//Plaats de Carrot class in een map die "vegetables" heet en de Rabbit class in een map met de naam "animals"
 //Zorg ervoor dat de namespace van deze classes wordt correct wordt aangepast zodat de compiler deze classes weer kan vinden.
+
+//Opdracht 3:
+//Zorg dat het konijn wat vriendjes krijgt! Die mogen ook een paar wortels eten.
