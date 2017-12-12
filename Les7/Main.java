@@ -17,7 +17,7 @@ public class Main{
 }
 
 //Opdracht 1:
-//Los de 2 fouten op die allebij te maken hebben met "scope"
+//Los de 3 fouten op die allebij te maken hebben met "scope"
 
 //Opdracht 2:
 //Plaats de Carrot class in een map die "vegetables" heet en de Rabbit class in een map met de naam "animals"
